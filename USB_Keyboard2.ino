@@ -56,7 +56,7 @@ const char key_values1[KEY_ROWS1 * KEY_COLS1] = {
   's', 't', 'u', 'v', 'w', 'x', 'y',
   'z', '`', ',', '.', '/', ';', '\'',
 };
-*/jnt
+*/
 
 KeyScanner scanner1(&key_row1[0], KEY_ROWS1, &key_col1[0], KEY_COLS1, &key_values1[0]);
 
